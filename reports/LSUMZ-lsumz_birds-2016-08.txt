@@ -1,0 +1,384 @@
+Report for Institution Code LSUMZ, Resource lsumz_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 391
+Number of records retrieved in searches: 1413
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 185
+	Country: United States ; Times: 178
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 14
+	Date: 2016-08-11 ; Times: 17
+	Date: 2016-08-12 ; Times: 67
+	Date: 2016-08-13 ; Times: 5
+	Date: 2016-08-14 ; Times: 31
+	Date: 2016-08-15 ; Times: 14
+	Date: 2016-08-16 ; Times: 28
+	Date: 2016-08-17 ; Times: 14
+	Date: 2016-08-18 ; Times: 11
+	Date: 2016-08-19 ; Times: 53
+	Date: 2016-08-30 ; Times: 22
+	Date: 2016-08-31 ; Times: 7
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 6
+	Date: 2016-08-25 ; Times: 9
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 28
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 10
+	Date: 2016-08-20 ; Times: 6
+	Date: 2016-08-23 ; Times: 12
+	Date: 2016-08-22 ; Times: 13
+	Date: 2016-08-09 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hardyi class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "granatellus venustus" ; Times: 2
+	Query: "type:specimen genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Momotus bahamensis" ; Times: 1
+	Query: "type:specimen specificepithet:torquata genus:hydropsalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "type:specimen specificepithet:lactea genus:AMAZILIA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:STEPHANOXIS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Leucochloris class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:recurvirostris genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "Brachypteracias leptosomus" ; Times: 2
+	Query: "type:specimen specificepithet:zonaris genus:streptoprocne class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "133833" ; Times: 1
+	Query: "type:specimen specificepithet:biscutata class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:chapmani class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Contopus nigrescens" ; Times: 1
+	Query: "type:specimen specificepithet:meridionalis genus:CHAETURA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "type:specimen genus:Baryphthengus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:pretrei genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:brachyura genus:CHAETURA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:8462 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen genus:momotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:chaetura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:8693 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen genus:Coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:serrirostris genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:aureoventris genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:10455 institutioncode:LSUMZ" ; Times: 3
+	Query: "pitta brachyura" ; Times: 1
+	Query: "type:specimen genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:violaceus genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:15675 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:squammata genus:columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "agelaius humeralis" ; Times: 4
+	Query: "type:specimen specificepithet:ruficauda genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:tectus genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops revoilii" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:geotrygon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chaetura fumosa" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "type:specimen genus:Jacamerops class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:notatus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "type:specimen genus:ramphodon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:PUSILLUS genus:CHORDEILES class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Dromococcyx class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:dea genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bourcieri genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "type:specimen genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:16669 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:120426 collectioncode:Birds" ; Times: 2
+	Query: "chlorostilbon alice" ; Times: 4
+	Query: "chaetocercus heliodor" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:zonaris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:tapera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "harpactes whiteheadi" ; Times: 13
+	Query: "specificepithet:violaceus genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cunicularia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:creagra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Thryothorus modestus type:specimen country:&#34;Belize&#34;" ; Times: 1
+	Query: "type:specimen genus:Campylopterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "platysmurus institutioncode:LSUMZ" ; Times: 3
+	Query: "type:specimen specificepithet:versicolor genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:talpacoti class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "type:specimen genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "52883" ; Times: 1
+	Query: "type:specimen specificepithet:fimbriata genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:squamosus genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Podager class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:TYTO class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "type:specimen genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:8542 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:21304 institutioncode:LSUMZ" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 11
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "type:specimen specificepithet:ANDREI class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Bubo virginianus cHIHUAHUA" ; Times: 1
+	Query: "catalognumber:34000 institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen genus:Nyctidromus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:albirostris genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chaetocercus jourdanii" ; Times: 5
+	Query: "Falco peregrinus Texas" ; Times: 1
+	Query: "eupherusa poliocerca" ; Times: 16
+	Query: "schiffornis turdina guyana" ; Times: 1
+	Query: "type:specimen specificepithet:MELANOGASTER genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vireo plumbeus type:specimen country:&#34;belize&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:rufus genus:Caprimulgus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 8904" ; Times: 1
+	Query: "type:specimen specificepithet:choliba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Aphantochroa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:31579 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:31577 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:nattereri genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:largipennis genus:Campylopterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:streptoprocne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chaetura fumosa type:specimen" ; Times: 2
+	Query: "specificepithet:albicapillus genus:spreo" ; Times: 1
+	Query: "type:specimen specificepithet:notatus genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "164650" ; Times: 1
+	Query: "type:specimen specificepithet:collaris genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Panyptila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:Nyctiphrynus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:8543 institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen specificepithet:minuta genus:piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:augastes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:nattereri genus:phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:acutipennis genus:Chordeiles class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:striolatus genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:aenea genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "myrmia micrura" ; Times: 25
+	Query: "Catharus fuscater Colombia" ; Times: 1
+	Query: "type:specimen genus:Jacamaralcyon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscater Peru" ; Times: 1
+	Query: "type:specimen genus:opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:15604 institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen specificepithet:melanogaster genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "amazilia luciae" ; Times: 3
+	Query: "type:specimen specificepithet:melanurus genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscater Panama" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:magnificus genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:minuta genus:Columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:mellivora genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 35375" ; Times: 1
+	Query: "LSUMZ 35376" ; Times: 1
+	Query: "LSUMZ 35377" ; Times: 1
+	Query: "type:specimen specificepithet:hyperrhynchus genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:glaucopis genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:leucurus genus:Threnetes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:furcifer genus:Heliomaster class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "type:specimen specificepithet:cinereiventris genus:chaetura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:19240 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:koeniswaldiana genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Asio stygius chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:brasilianum class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:15676 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:leucopterus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cyanescens genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "clamator coromandus" ; Times: 2
+	Query: "114007" ; Times: 1
+	Query: "type:specimen specificepithet:cinereus genus:Coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Capito quinticolor" ; Times: 4
+	Query: "type:specimen specificepithet:americana genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:20877 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:leucogaster genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:chacuru genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:MEGASCOPS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:coccyzus americanus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:subvinacea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:inda genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:furcata genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:GRISEUS genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:perspicillata genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;chrysoparia&#34; country:&#34;Mexico&#34;" ; Times: 6
+	Query: "type:specimen specificepithet:hirundinaceus genus:caprimulgus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:maculatus genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:amazona genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:rupestris genus:Chordeiles class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:26887 institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen genus:glaucis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:viridis genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turnix sylvaticus sylvaticus" ; Times: 1
+	Query: "type:specimen specificepithet:curucui genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:RUFUS genus:CAPRIMULGUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "atthis ellioti" ; Times: 1
+	Query: "type:specimen genus:lurocalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chlorostilbon stenurus" ; Times: 3
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "type:specimen genus:clytolaema class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:parvulus genus:caprimulgus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "zoonavena" ; Times: 1
+	Query: "type:specimen specificepithet:picui genus:columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:squalidus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "type:specimen specificepithet:phasianellus genus:Dromococcyx class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ordii genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Setophaga coronata type:specimen institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "melanerpes carolinus Virginia" ; Times: 1
+	Query: "92074" ; Times: 1
+	Query: "catalognumber:16941 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:verreauxi genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:nigricollis genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Merops muelleri" ; Times: 2
+	Query: "Phegornis" ; Times: 1
+	Query: "type:specimen genus:Eleothreptus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "type:specimen genus:geotrygon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:tamatia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;Ammodramus henslowii&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:albogularis genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Heliactin class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:americanus genus:coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:tachornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:athene class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:16668 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:melacoryphus genus:coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:21888 institutioncode:LSUMZ" ; Times: 1
+	Query: "campylopterus phainopeplus" ; Times: 2
+	Query: "type:specimen specificepithet:viridis genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:anomalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:15923 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "type:specimen genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:capensis genus:Bucco class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:13109 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:bracteatus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ruficapillus genus:Baryphthengus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:14406 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:CLAMATOR class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Passerina versicolor type:specimen country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:climacocerca class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:eurynome genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Calliphlox class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:swainsoni genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "169695" ; Times: 1
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:spinicaudus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:passerina genus:Columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "coeligena institutioncode:LSUMZ" ; Times: 1
+	Query: "ara militaris stateprovince:&#34;chiapas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:watertonii genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:21305 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:cinereiventris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "thalurania fannyi" ; Times: 3
+	Query: "type:specimen genus:zenaida class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lampornis cinereicauda" ; Times: 1
+	Query: "type:specimen specificepithet:pavoninus genus:Dromococcyx class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 924 download events in this period)
+Total number of records downloaded: 7174
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-23 ; Times: 11
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "rhyacornis fuliginosa type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "geospiza" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "specificepithet:chrysops genus:zimmerius" ; Times: 2
+	Query: "Phegornis" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer country:&#34;Brazil&#34;" ; Times: 3
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "camarhynchus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "certhidea" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+
+
+End of report.
