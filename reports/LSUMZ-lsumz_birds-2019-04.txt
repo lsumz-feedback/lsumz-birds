@@ -1,0 +1,569 @@
+Report for Institution Code LSUMZ, Resource lsumz_birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 511
+Number of records retrieved in searches: 2573
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 116
+	Country: Canada ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 16
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Belgium ; Times: 68
+	Country: Denmark ; Times: 16
+	Country: United States ; Times: 212
+	Country: Sweden ; Times: 13
+	Country: Switzerland ; Times: 6
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 3
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 18
+	Date: 2019-04-19 ; Times: 5
+	Date: 2019-04-18 ; Times: 13
+	Date: 2019-04-05 ; Times: 29
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 18
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 35
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 26
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 19
+	Date: 2019-04-02 ; Times: 27
+	Date: 2019-04-03 ; Times: 31
+	Date: 2019-04-06 ; Times: 53
+	Date: 2019-04-04 ; Times: 25
+	Date: 2019-04-23 ; Times: 10
+	Date: 2019-04-20 ; Times: 7
+	Date: 2019-04-07 ; Times: 9
+	Date: 2019-04-26 ; Times: 23
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 13
+	Date: 2019-04-25 ; Times: 15
+	Date: 2019-04-28 ; Times: 4
+	Date: 2019-04-29 ; Times: 16
+	Date: 2019-04-08 ; Times: 39
+	Date: 2019-04-09 ; Times: 47
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12666 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:collaris genus:Accipiter" ; Times: 1
+	Query: "specificepithet:striata genus:Butorides institutioncode:LSUMZ" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "LSUMZ 34130" ; Times: 2
+	Query: "specificepithet:rufiventris genus:Ardeola institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:175115 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 88934" ; Times: 1
+	Query: "vntype:specimen genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "80729" ; Times: 3
+	Query: "139554" ; Times: 1
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54163 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 93180" ; Times: 1
+	Query: "Cossypha cyanocampter" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "lsu 51137" ; Times: 1
+	Query: "specificepithet:herodias genus:Ardea institutioncode:LSUMZ" ; Times: 1
+	Query: "Amazilia lactea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "class:Aves catalognumber:88470 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "88131 scytalopus" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 4
+	Query: "(3597) institutioncode:LSUMZ" ; Times: 1
+	Query: "Circus buffoni" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "class:Aves catalognumber:53873 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hemitriccus obsoletus" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "135690" ; Times: 1
+	Query: "Phimosus infuscatus" ; Times: 2
+	Query: "Theristicus caerulescens" ; Times: 2
+	Query: "137546" ; Times: 2
+	Query: "lsumz 74112" ; Times: 2
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "specificepithet:cocoi genus:Ardea hastissue:1" ; Times: 1
+	Query: "LSUMZ 17485" ; Times: 2
+	Query: "6570 family:Furnariidae" ; Times: 1
+	Query: "LSUMZ 27252" ; Times: 1
+	Query: "LSUMZ 27253" ; Times: 1
+	Query: "LSUMZ 27254" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "specificepithet:vinaceigula genus:Egretta" ; Times: 2
+	Query: "catalognumber:8257 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:17027 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:semicincta genus:malacoptila" ; Times: 1
+	Query: "LSUMZ 83406" ; Times: 2
+	Query: "LSUMZ 94344" ; Times: 2
+	Query: "specificepithet:bellulus genus:margarornis" ; Times: 1
+	Query: "catalognumber:5742 institutioncode:LSUMZ" ; Times: 2
+	Query: "145372" ; Times: 1
+	Query: "specificepithet:tithys genus:Synallaxis institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Donacobius atricapilla hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:50928 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Penelope superciliaris" ; Times: 2
+	Query: "Scytalopus latrans" ; Times: 1
+	Query: "LSUMZ 83493" ; Times: 4
+	Query: "specificepithet:pyrrhophia genus:Cranioleuca hastissue:1" ; Times: 1
+	Query: "catalognumber:26947 institutioncode:LSUMZ" ; Times: 2
+	Query: "135099" ; Times: 1
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen hastissue:1 Myrmotherula schisticolor" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "Oenanthe phillipsi" ; Times: 3
+	Query: "Ciconia maguari" ; Times: 2
+	Query: "catalognumber:18440 institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:rufescens genus:Egretta hastissue:1" ; Times: 2
+	Query: "175723" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "LSUMZ 54361" ; Times: 2
+	Query: "93566" ; Times: 1
+	Query: "rallus elegans vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lorata genus:Sterna" ; Times: 6
+	Query: "class:Aves catalognumber:37100 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sinensis genus:Ixobrychus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lactea genus:amazilia hastissue:1" ; Times: 2
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "catalognumber:18727 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:180204 institutioncode:LSUMZ" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "schiffornis major" ; Times: 2
+	Query: "84999" ; Times: 1
+	Query: "class:Aves catalognumber:155200 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minor genus:Eudyptula preparations:Skeleton" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "LSUMZ 86768" ; Times: 2
+	Query: "174335" ; Times: 1
+	Query: "genus:Larus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Amazona guildingii" ; Times: 3
+	Query: "arborophila orientalis" ; Times: 5
+	Query: "LSUMZ 48809" ; Times: 3
+	Query: "107950" ; Times: 1
+	Query: "class:Aves catalognumber:34773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 87409" ; Times: 2
+	Query: "class:Aves catalognumber:38120 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:electron hastissue:1" ; Times: 2
+	Query: "catalognumber:61032 institutioncode:LSUMZ" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "specificepithet:rufocollaris genus:petrochelidon" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "LSUMZ 113763" ; Times: 3
+	Query: "LSUMZ 98702" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "58395" ; Times: 2
+	Query: "LSUMZ 59495" ; Times: 2
+	Query: "genus:cinclus preparations:alcoholic" ; Times: 2
+	Query: "catalognumber:29165 institutioncode:LSUMZ" ; Times: 2
+	Query: "class:Aves catalognumber:55107 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "fuscipenne" ; Times: 2
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 86926" ; Times: 2
+	Query: "LSUMZ 91197" ; Times: 2
+	Query: "LSUMZ 98635" ; Times: 2
+	Query: "Rhea pennata" ; Times: 1
+	Query: "catalognumber:21874 institutioncode:LSUMZ" ; Times: 2
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 3
+	Query: "class:Aves catalognumber:50656 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "glaucidium capense" ; Times: 1
+	Query: "LSUMZ 20031" ; Times: 2
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "Pyrrhura molinae" ; Times: 1
+	Query: "LSUMZ 81111" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "donacobius atricapilla hastissue:1" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "Tinamus osgoodi" ; Times: 1
+	Query: "class:Aves catalognumber:169397 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "Henicorhina leucophrys stateprovince:&#34;Puno&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "&#34;Ramphotrigon megacephalum&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "catalognumber:76194 institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Aves catalognumber:34775 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Egretta tricolor vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:53920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ixobrychus involucris" ; Times: 2
+	Query: "passerina amoena x cyanea" ; Times: 2
+	Query: "genus:Phaeothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "catalognumber:33431 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 84130" ; Times: 2
+	Query: "137989" ; Times: 2
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "182650" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "Anas georgica" ; Times: 2
+	Query: "genus:Bonasa stateprovince:&#34;Michigan&#34; hastissue:1" ; Times: 1
+	Query: "Hylophilus sclateri" ; Times: 1
+	Query: "LSUMZ 40152" ; Times: 2
+	Query: "LSUMZ 56709" ; Times: 2
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 45797" ; Times: 2
+	Query: "catalognumber:545 institutioncode:LSUMZ" ; Times: 1
+	Query: "78581 scytalopus" ; Times: 1
+	Query: "class:Aves catalognumber:54132 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 36788" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "geotrygon carrikeri" ; Times: 2
+	Query: "specificepithet:lineatum genus:Tigrisoma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:vittata genus:amazona" ; Times: 1
+	Query: "class:Aves catalognumber:55141 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 42655" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "Corvus ossifragus vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:54077 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "claravis chiapas" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "class:Aves catalognumber:57468 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 93576" ; Times: 2
+	Query: "137236" ; Times: 1
+	Query: "class:Aves catalognumber:70476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:27288 institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Aves catalognumber:113559 institutioncode:LSUMZ" ; Times: 1
+	Query: "scytalopus femoralis" ; Times: 2
+	Query: "Sonora fasciata" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:152314 institutioncode:LSUMZ" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "class:Aves catalognumber:70499 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "74112 scytalopus" ; Times: 1
+	Query: "class:Aves catalognumber:54159 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:30820 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cinerea genus:Ardea institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "155796" ; Times: 1
+	Query: "class:Aves catalognumber:52573 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 95910" ; Times: 3
+	Query: "class:Aves catalognumber:90266 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "145278" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:pyrrhops genus:hapalopsittaca" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 7
+	Query: "115753" ; Times: 1
+	Query: "catalognumber:22317 institutioncode:LSUMZ" ; Times: 2
+	Query: "115755" ; Times: 1
+	Query: "catalognumber:47520 institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Aves catalognumber:35210 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:24109 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "LSUMZ 87045" ; Times: 2
+	Query: "137246" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "catalognumber:142330" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 2
+	Query: "class:Aves catalognumber:36623 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 96093" ; Times: 2
+	Query: "Dromococcyx pavoninus" ; Times: 1
+	Query: "LSUMZ 81750" ; Times: 2
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "catalognumber:150852 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Kenya&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "50360 Aves" ; Times: 1
+	Query: "Hylophilus sclateri vntype:specimen" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "catalognumber:84431 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter superciliosus" ; Times: 1
+	Query: "agelaius tricolor hastissue:1" ; Times: 1
+	Query: "145380" ; Times: 1
+	Query: "lsumz 93566" ; Times: 2
+	Query: "lsumz 88129" ; Times: 1
+	Query: "catalognumber:183732 institutioncode:LSUMZ" ; Times: 1
+	Query: "Myrmotherula klagesi" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen hastissue:1 Pipreola" ; Times: 1
+	Query: "174336" ; Times: 1
+	Query: "174337" ; Times: 1
+	Query: "vntype:specimen genus:Phaeothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:83160 institutioncode:LSUMZ" ; Times: 1
+	Query: "xenospingus concolor" ; Times: 1
+	Query: "class:Aves catalognumber:37099 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 87348" ; Times: 1
+	Query: "LSUMZ 48825" ; Times: 2
+	Query: "class:Aves catalognumber:53922 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "119017 scytalopus" ; Times: 3
+	Query: "catalognumber:91510 institutioncode:LSUMZ" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:falcinellus genus:Plegadis institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridis genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 94132" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "75419" ; Times: 1
+	Query: "specificepithet:fimbriata genus:amazilia hastissue:1" ; Times: 1
+	Query: "catalognumber:10730 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:21847 institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Aves catalognumber:64888 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Brachypteracias leptosomus" ; Times: 2
+	Query: "family:Muscicapidae institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "catalognumber:28404 institutioncode:LSUMZ" ; Times: 1
+	Query: "aphriza virgata hastissue:1" ; Times: 1
+	Query: "specificepithet:stellatus genus:margarornis" ; Times: 1
+	Query: "class:Aves catalognumber:42861 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 94140" ; Times: 2
+	Query: "Pilherodius pileatus" ; Times: 2
+	Query: "specificepithet:dorsalis genus:phacellodomus" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "88129 scytalopus" ; Times: 1
+	Query: "135136" ; Times: 1
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:55154 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Enicognathus skeleton" ; Times: 2
+	Query: "137536" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "class:Aves catalognumber:26201 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Patagioenas leucocephala hastissue:1" ; Times: 1
+	Query: "catalognumber:15230 institutioncode:LSUMZ" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "Tyrannus savana Guyana" ; Times: 1
+	Query: "dicaeum pectorale" ; Times: 1
+	Query: "Cossypha niveicapilla" ; Times: 1
+	Query: "vntype:specimen genus:parula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "augastes lumachella" ; Times: 1
+	Query: "specificepithet:subflava genus:Prinia country:&#34;Kenya&#34;" ; Times: 1
+	Query: "catalognumber:86105 institutioncode:LSUMZ" ; Times: 1
+	Query: "lamprotornis regius" ; Times: 1
+	Query: "Coturnicops noveboracensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "catalognumber:170470" ; Times: 2
+	Query: "55269" ; Times: 3
+	Query: "Eleothreptus anomalus" ; Times: 8
+	Query: "vntype:specimen genus:dendroica class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:51900 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10727 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:52412 institutioncode:LSUMZ" ; Times: 1
+	Query: "Amazona autumnalis hastissue:1" ; Times: 1
+	Query: "Oenanthe xanthoprymna hastissue:1" ; Times: 2
+	Query: "catalognumber:21857 institutioncode:LSUMZ" ; Times: 2
+	Query: "92519 scytalopus" ; Times: 1
+	Query: "173062" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "Patagioenas leucocephala vntype:specimen hastissue:1" ; Times: 1
+	Query: "145378" ; Times: 3
+	Query: "specificepithet:hypochondriaca" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "genus:parula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Aves catalognumber:70498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:31360 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Progne elegans" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricristatus genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "specificepithet:cucullata genus:andigena" ; Times: 1
+	Query: "LSUMZ 84795" ; Times: 2
+	Query: "LSUMZ 93701" ; Times: 3
+	Query: "corvus kubaryi" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:dendroica class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "141864" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "genus:monias" ; Times: 1
+	Query: "LSUMZ 98666" ; Times: 4
+	Query: "Ammodramus henslowii vntype:specimen hastissue:1" ; Times: 2
+	Query: "119949" ; Times: 1
+	Query: "class:Aves catalognumber:141707 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mongolica genus:melanocorypha" ; Times: 1
+	Query: "catalognumber:39052 institutioncode:LSUMZ" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 4
+	Query: "class:Aves catalognumber:33602 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "Fulica gigantea skeleton" ; Times: 1
+	Query: "class:Aves catalognumber:53803 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves catalognumber:70496 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lsumz 88131" ; Times: 2
+	Query: "class:Aves catalognumber:45896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanerpes aurifrons hastissue:1" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "Laterallus jamaicensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:8552 institutioncode:LSUMZ" ; Times: 1
+	Query: "145540" ; Times: 2
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 92 (out of 1263 download events in this period)
+Total number of records downloaded: 6518
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 50
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 29
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Belize ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-23 ; Times: 13
+	Date: 2019-04-11 ; Times: 4
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-22 ; Times: 37
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+	Date: 2019-04-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fischeri genus:agapornis" ; Times: 1
+	Query: "specificepithet:vittata genus:amazona" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Pennsylvania" ; Times: 2
+	Query: "family:Muscicapidae institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:fusca genus:malacoptila" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:nana genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:stellatus genus:margarornis" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Louisiana" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Minnesota" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Washington" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:melacoryphus genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:rufa genus:malacoptila" ; Times: 1
+	Query: "specificepithet:bimaculata genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:multicolor genus:todus" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:nigrirostris genus:andigena" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Kansas" ; Times: 1
+	Query: "specificepithet:typica genus:nesillas" ; Times: 1
+	Query: "specificepithet:angustirostris genus:todus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Idaho" ; Times: 1
+	Query: "specificepithet:rufocollaris genus:petrochelidon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:phacellodomus" ; Times: 1
+	Query: "specificepithet:lilianae genus:agapornis" ; Times: 1
+	Query: "specificepithet:nigra genus:coracopsis" ; Times: 1
+	Query: "specificepithet:semicincta genus:malacoptila" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 1
+	Query: "specificepithet:temminckii genus:Tragopan" ; Times: 1
+	Query: "specificepithet:subulatus genus:todus" ; Times: 1
+	Query: "vntype:specimen genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "specificepithet:mirabilis genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Florida" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "specificepithet:merulinus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oregon" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "specificepithet:cucullata genus:andigena" ; Times: 1
+	Query: "specificepithet:africanus genus:francolinus" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:ventralis genus:amazona" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Tennessee" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "Hylophilus sclateri vntype:specimen" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "specificepithet:hypoglauca genus:andigena" ; Times: 1
+	Query: "specificepithet:mongolica genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "augastes lumachella" ; Times: 1
+	Query: "specificepithet:satyra genus:Tragopan" ; Times: 1
+	Query: "xenospingus concolor" ; Times: 1
+	Query: "specificepithet:nigricans genus:petrochelidon" ; Times: 1
+	Query: "specificepithet:nana genus:aratinga" ; Times: 1
+	Query: "(cyanocorax) hastissue:1" ; Times: 2
+
+
+End of report.
