@@ -1,0 +1,324 @@
+Report for Institution Code LSUMZ, Resource lsumz_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 302
+Number of records retrieved in searches: 1985
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 26
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 6
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 200
+	Country: Ecuador ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-20 ; Times: 8
+	Date: 2019-12-23 ; Times: 10
+	Date: 2019-12-22 ; Times: 5
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-18 ; Times: 24
+	Date: 2019-12-19 ; Times: 5
+	Date: 2019-12-10 ; Times: 11
+	Date: 2019-12-11 ; Times: 9
+	Date: 2019-12-12 ; Times: 9
+	Date: 2019-12-13 ; Times: 7
+	Date: 2019-12-14 ; Times: 4
+	Date: 2019-12-15 ; Times: 4
+	Date: 2019-12-16 ; Times: 15
+	Date: 2019-12-17 ; Times: 15
+	Date: 2019-12-30 ; Times: 6
+	Date: 2019-12-31 ; Times: 6
+	Date: 2019-12-09 ; Times: 11
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 45
+	Date: 2019-12-05 ; Times: 17
+	Date: 2019-12-04 ; Times: 41
+	Date: 2019-12-03 ; Times: 15
+	Date: 2019-12-02 ; Times: 19
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "Hylorchilus" ; Times: 1
+	Query: "catalognumber:61679 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen genus:Dendrocincla class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; continent:South America basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "family:troglodytidae (2382)" ; Times: 1
+	Query: "Chordeiles pusillus" ; Times: 1
+	Query: "LSUMZ 6246" ; Times: 1
+	Query: "specificepithet:rubriceps genus:Piranga institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:57822 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7562 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:19910 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:49480 institutioncode:LSUMZ" ; Times: 2
+	Query: "109195" ; Times: 1
+	Query: "vntype:specimen genus:Gymnopithys class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; continent:South America basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "asthenes puno peru" ; Times: 1
+	Query: "Tachornis phoenicobia" ; Times: 2
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hastissue:1" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "eulampis institutioncode:LSUMZ" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 3
+	Query: "55764" ; Times: 1
+	Query: "156384" ; Times: 1
+	Query: "110738" ; Times: 1
+	Query: "Troglodytes rufociliatus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "Hypocolius institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "124577" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Larus stateprovince:&#34;Baja California&#34;" ; Times: 4
+	Query: "euscarthmus rufomarginatus vntype:specimen" ; Times: 1
+	Query: "pasco lsumz grallaria rufula 170664" ; Times: 1
+	Query: "Hypocolius institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 88053" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "pasco lsumz grallaria rufula" ; Times: 1
+	Query: "Strigops habroptila" ; Times: 1
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "vntype:specimen specificepithet:columbiana genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "amazona xantholora vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nothocrax" ; Times: 1
+	Query: "catalognumber:25328 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:arada genus:cyphorhinus hastissue:1" ; Times: 1
+	Query: "specificepithet:rutila genus:Streptoprocne country:&#34;Peru&#34;" ; Times: 2
+	Query: "Thryothorus ludovicianus vntype:specimen stateprovince:&#34;San Luis Potosi&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:columbiana genus:Nucifraga stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 4
+	Query: "catalognumber:81031 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:auriceps genus:Pharomachrus institutioncode:LSUMZ" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "catalognumber:34795 institutioncode:LSUMZ" ; Times: 2
+	Query: "124580" ; Times: 1
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:163690" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "116149" ; Times: 1
+	Query: "specificepithet:portoricensis genus:melanerpes" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 2
+	Query: "grallaria blakei" ; Times: 1
+	Query: "grallaria blakei amazonas" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco continent:south america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 28001" ; Times: 1
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Stercorarius pomarinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:164755" ; Times: 1
+	Query: "catalognumber:55299 institutioncode:LSUMZ" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "euscarthmus rufomarginatus" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 6
+	Query: "Carpodectes nitidus" ; Times: 1
+	Query: "Hylorchilus vntype:specimen" ; Times: 1
+	Query: "Lophostrix cristata peru" ; Times: 1
+	Query: "catalognumber:61684 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:femoralis genus:falco institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSU 85186" ; Times: 1
+	Query: "cochlearius chiapas" ; Times: 1
+	Query: "catalognumber:14612 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:33339 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:citrina genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cochlearius cochlearius chiapas" ; Times: 1
+	Query: "coeligena iris" ; Times: 1
+	Query: "vntype:specimen genus:Conirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "catalognumber:61688 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "LSU 4337" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "Cathartes aura AND Island" ; Times: 1
+	Query: "LSUMZ 34364" ; Times: 1
+	Query: "Arborophila orientalis" ; Times: 2
+	Query: "catalognumber:578 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:22626 institutioncode:LSUMZ" ; Times: 1
+	Query: "Cathartes aura AND Island NOT Cuba NOT Falkland" ; Times: 2
+	Query: "139834" ; Times: 1
+	Query: "vntype:specimen specificepithet:hirsutus genus:Glaucis class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; continent:South America basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco country:&#34;BELIZE&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Androdon vntype:specimen" ; Times: 9
+	Query: "Calidris pusilla country:&#34;mexico&#34;" ; Times: 1
+	Query: "catharopeza bishopi" ; Times: 1
+	Query: "catalognumber:14606 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:crassirostris genus:Vireo hastissue:1" ; Times: 1
+	Query: "Eupherusa+cyanophrys" ; Times: 1
+	Query: "catalognumber:382 institutioncode:LSUMZ" ; Times: 1
+	Query: "lsumz birds ancash" ; Times: 1
+	Query: "catalognumber:19886 institutioncode:LSUMZ" ; Times: 1
+	Query: "Campethera maculosa" ; Times: 1
+	Query: "amazona xantholora" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "catalognumber:61676 institutioncode:LSUMZ" ; Times: 2
+	Query: "Diglossa glauca vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "56609" ; Times: 1
+	Query: "155405" ; Times: 1
+	Query: "catalognumber:48440 institutioncode:LSUMZ" ; Times: 1
+	Query: "78651" ; Times: 2
+	Query: "163509" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "Aechmophorus clarkii country:&#34;mexico&#34;" ; Times: 1
+	Query: "Heliangelus regalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "159630" ; Times: 1
+	Query: "xenicus longipes" ; Times: 2
+	Query: "specificepithet:leucocephala genus:Halcyon class:Aves country:&#34;Kenya&#34; continent:Africa" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "Stercorarius parasiticus country:&#34;mexico&#34;" ; Times: 1
+	Query: "lsumz ancash" ; Times: 1
+	Query: "91317" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "141431" ; Times: 1
+	Query: "Ara ambiguus" ; Times: 1
+	Query: "catalognumber:49711 institutioncode:LSUMZ" ; Times: 1
+	Query: "Opisthoprora vntype:specimen" ; Times: 3
+	Query: "malacoptila rufa" ; Times: 2
+	Query: "88850" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "genus:amazona institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 12704" ; Times: 1
+	Query: "vntype:specimen specificepithet:luteola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Apus horus" ; Times: 1
+	Query: "Arborophila brunneopectus" ; Times: 1
+	Query: "heliangelus amethysticollis institutioncode:LSUMZ" ; Times: 3
+	Query: "76706" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "specificepithet:columbiana genus:Nucifraga basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "lsumz 6085" ; Times: 1
+	Query: "LSUMZ 19185" ; Times: 5
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "avocettula" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "specificepithet:montezuma genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 3
+	Query: "99728" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:18628 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:143804" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 1
+	Query: "catalognumber:2137 institutioncode:LSUMZ" ; Times: 1
+	Query: "Pyrilia pyrilia lsu" ; Times: 1
+	Query: "Androdon institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:femoralis genus:falco country:&#34;Belize&#34;" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "Ramphomicron microrhynchum institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leuconota genus:Pyriglena country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Micropygia" ; Times: 3
+	Query: "catalognumber:11839 institutioncode:LSUMZ" ; Times: 5
+	Query: "125787" ; Times: 1
+	Query: "Wetmorethraupis sterrhopteron" ; Times: 1
+	Query: "vntype:specimen genus:Haplospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "teretistris fernandinae" ; Times: 1
+	Query: "LSUMZ 27284" ; Times: 2
+	Query: "catalognumber:25327 institutioncode:LSUMZ" ; Times: 2
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "154973" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "hylophilus sclateri" ; Times: 1
+	Query: "specificepithet:sulphurescens genus:Tolmomyias country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "vntype:specimen specificepithet:sclateri genus:Hylophilus" ; Times: 1
+	Query: "160714" ; Times: 1
+	Query: "colibri institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen genus:Pipra class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; continent:South America basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:brunneiventris genus:Diglossa country:&#34;Peru&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:139025" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 24
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "LSUMZ 4337" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 2
+	Query: "58319" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 596 download events in this period)
+Total number of records downloaded: 1482
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 7
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "iridosornis analis" ; Times: 2
+	Query: "little inagua" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "malacoptila rufa" ; Times: 4
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:columbiana genus:Nucifraga stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Larus stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "genus:amazona institutioncode:LSUMZ" ; Times: 1
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+
+
+End of report.
