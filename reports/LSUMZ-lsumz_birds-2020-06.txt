@@ -1,0 +1,323 @@
+Report for Institution Code LSUMZ, Resource lsumz_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 227
+Number of records retrieved in searches: 1181
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: United States ; Times: 69
+	Country: New Zealand ; Times: 1
+	Country: Peru ; Times: 28
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 13
+	Country: Singapore ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: United Kingdom ; Times: 21
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Dominican Republic ; Times: 4
+	Country: Argentina ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-05 ; Times: 8
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 24
+	Date: 2020-06-06 ; Times: 10
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 30
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 33
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 16
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-10 ; Times: 71
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "schoutedenapus" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "100399 aves" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "specificepithet:alberti order:galliformes" ; Times: 1
+	Query: "Anas luzonica" ; Times: 2
+	Query: "vanellus lugubris" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 3
+	Query: "coccyzus americanus Colombia" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "LSUMZ 19373" ; Times: 1
+	Query: "LSUMZ 19376" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "LSUMZ 19374" ; Times: 1
+	Query: "LSUMZ 19375" ; Times: 1
+	Query: "LSUMZ 19378" ; Times: 1
+	Query: "LSUMZ 19379" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Tangara peruviana" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "specificepithet:gularis genus:Francolinus order:galliformes" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "Doliornis remseni" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "100499 aves" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:LSUMZ" ; Times: 1
+	Query: "Argentina talpacoti" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "Chondrohierax Cuba" ; Times: 1
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 4
+	Query: "Melanerpes Chihuahua" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "specificepithet:hypochroma genus:Sporophila" ; Times: 1
+	Query: "specificepithet:coronatus genus:Xolmis" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Plocepasser" ; Times: 2
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "100499" ; Times: 1
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "LSUMZ 19412" ; Times: 1
+	Query: "LSUMZ 19416" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 2
+	Query: "buteo ridgwayi" ; Times: 5
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 12
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:LSUMZ" ; Times: 1
+	Query: "coccyzus americanus Cuba" ; Times: 1
+	Query: "LSUMZ 19386" ; Times: 1
+	Query: "LSUMZ 19385" ; Times: 2
+	Query: "LSUMZ 19384" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "LSUMZ 19382" ; Times: 2
+	Query: "LSUMZ 19381" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "specificepithet:fonsecai genus:Acrobatornis" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "LSUMZ 19402" ; Times: 1
+	Query: "Eleothreptus anomalus" ; Times: 1
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "LSUMZ 19407" ; Times: 1
+	Query: "Sporophila hypochroma" ; Times: 1
+	Query: "Buteogallus anthracinus Chihuahua" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "specificepithet:barbatus order:galliformes" ; Times: 1
+	Query: "Xolmis coronatus" ; Times: 1
+	Query: "LSUMZ 19398" ; Times: 1
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "LSUMZ 25504" ; Times: 1
+	Query: "LSUMZ 25505" ; Times: 1
+	Query: "LSUMZ 25502" ; Times: 1
+	Query: "LSUMZ 25503" ; Times: 1
+	Query: "LSUMZ 25501" ; Times: 1
+	Query: "LSUMZ 25508" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "82441" ; Times: 1
+	Query: "Batis senegalensis" ; Times: 2
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Anas falcata" ; Times: 6
+	Query: "Sporophila ruficollis" ; Times: 4
+	Query: "specificepithet:galeatus genus:Dryocopus" ; Times: 1
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "Raphidura" ; Times: 1
+	Query: "LSUMZ 19387" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "specificepithet:cinctus order:galliformes" ; Times: 1
+	Query: "MERGUS OCTOSETACEUS" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoptera genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 2
+	Query: "LSUMZ 19383" ; Times: 1
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "genus:Machaeropterus hastissue:1" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "xenicus longipes" ; Times: 1
+	Query: "specificepithet:fuscoolivaceus genus:Atlapetes" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "attila phoenicurus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "LSUMZ 19377" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Aythya novaeseelandiae vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "vntype:specimen genus:Hypopyrrhus" ; Times: 2
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 5
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Pinguinus impennis preparations:Skeleton" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "Acrobatornis fonsecai" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Sporophila hastissue:1" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 2
+	Query: "Polioptila lactea" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "synallaxis ruficapilla maranhão" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "catalognumber:452 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:albogularis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 474 download events in this period)
+Total number of records downloaded: 3046
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 49
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 38
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-10 ; Times: 74
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "specificepithet:alberti order:galliformes" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "Tangara peruviana" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "specificepithet:gularis genus:Francolinus order:galliformes" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "specificepithet:leucopogon order:galliformes" ; Times: 1
+	Query: "specificepithet:hypochroma genus:Sporophila" ; Times: 1
+	Query: "specificepithet:coronatus genus:Xolmis" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "buteo ridgwayi" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:cinereiceps order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "specificepithet:fonsecai genus:Acrobatornis" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "Eleothreptus anomalus" ; Times: 1
+	Query: "Sporophila hypochroma" ; Times: 1
+	Query: "specificepithet:barbatus order:galliformes" ; Times: 1
+	Query: "Xolmis coronatus" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:galeatus genus:Dryocopus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 2
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "specificepithet:wagleri order:galliformes" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Acrobatornis fonsecai" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+
+
+End of report.
